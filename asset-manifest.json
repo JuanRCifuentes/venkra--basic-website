@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/venkra--basic-website/static/css/main.89a527a1.css",
+    "main.js": "/venkra--basic-website/static/js/main.84bfefab.js",
+    "static/media/logo-blanco.png": "/venkra--basic-website/static/media/logo-blanco.f59c3398075af8dab6c5.png",
+    "static/media/logo.png": "/venkra--basic-website/static/media/logo.632149545922cde42a8c.png",
+    "index.html": "/venkra--basic-website/index.html",
+    "main.89a527a1.css.map": "/venkra--basic-website/static/css/main.89a527a1.css.map",
+    "main.84bfefab.js.map": "/venkra--basic-website/static/js/main.84bfefab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89a527a1.css",
+    "static/js/main.84bfefab.js"
+  ]
+}
