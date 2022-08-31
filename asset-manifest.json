@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.3880d9c8.css",
-    "main.js": "/static/js/main.59f31a2d.js",
-    "static/media/main.mp4": "/static/media/main.6b1fcaad84c87b3d55ba.mp4",
-    "static/media/full-logo.png": "/static/media/full-logo.dbade3f07c59adb711a9.png",
-    "static/media/logo-negro.png": "/static/media/logo-negro.873587715c45f170158b.png",
-    "static/media/logo-blanco.png": "/static/media/logo-blanco.f59c3398075af8dab6c5.png",
-    "static/media/logo.png": "/static/media/logo.632149545922cde42a8c.png",
-    "index.html": "/index.html",
-    "main.3880d9c8.css.map": "/static/css/main.3880d9c8.css.map",
-    "main.59f31a2d.js.map": "/static/js/main.59f31a2d.js.map"
+    "main.css": "/venkra--basic-website/static/css/main.3880d9c8.css",
+    "main.js": "/venkra--basic-website/static/js/main.a82aba1e.js",
+    "static/media/main.mp4": "/venkra--basic-website/static/media/main.6b1fcaad84c87b3d55ba.mp4",
+    "static/media/full-logo.png": "/venkra--basic-website/static/media/full-logo.dbade3f07c59adb711a9.png",
+    "static/media/logo-negro.png": "/venkra--basic-website/static/media/logo-negro.873587715c45f170158b.png",
+    "static/media/logo-blanco.png": "/venkra--basic-website/static/media/logo-blanco.f59c3398075af8dab6c5.png",
+    "static/media/logo.png": "/venkra--basic-website/static/media/logo.632149545922cde42a8c.png",
+    "index.html": "/venkra--basic-website/index.html",
+    "main.3880d9c8.css.map": "/venkra--basic-website/static/css/main.3880d9c8.css.map",
+    "main.a82aba1e.js.map": "/venkra--basic-website/static/js/main.a82aba1e.js.map"
   },
   "entrypoints": [
     "static/css/main.3880d9c8.css",
-    "static/js/main.59f31a2d.js"
+    "static/js/main.a82aba1e.js"
   ]
 }
