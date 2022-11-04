@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/venkra--basic-website/static/css/main.3880d9c8.css",
-    "main.js": "/venkra--basic-website/static/js/main.a82aba1e.js",
+    "main.js": "/venkra--basic-website/static/js/main.abefa46a.js",
     "static/media/main.mp4": "/venkra--basic-website/static/media/main.6b1fcaad84c87b3d55ba.mp4",
     "static/media/full-logo.png": "/venkra--basic-website/static/media/full-logo.dbade3f07c59adb711a9.png",
     "static/media/logo-negro.png": "/venkra--basic-website/static/media/logo-negro.873587715c45f170158b.png",
@@ -9,10 +9,10 @@
     "static/media/logo.png": "/venkra--basic-website/static/media/logo.632149545922cde42a8c.png",
     "index.html": "/venkra--basic-website/index.html",
     "main.3880d9c8.css.map": "/venkra--basic-website/static/css/main.3880d9c8.css.map",
-    "main.a82aba1e.js.map": "/venkra--basic-website/static/js/main.a82aba1e.js.map"
+    "main.abefa46a.js.map": "/venkra--basic-website/static/js/main.abefa46a.js.map"
   },
   "entrypoints": [
     "static/css/main.3880d9c8.css",
-    "static/js/main.a82aba1e.js"
+    "static/js/main.abefa46a.js"
   ]
 }
